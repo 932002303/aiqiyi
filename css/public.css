@@ -1,0 +1,21 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+html,body{
+	width: 100%;
+	height: 100%;
+	background: #191a20;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+
+	color: hsla(0,0%,100%,.3);
+	font-size: 14px;
+}
+a:hover{
+	color: #00CC4C;
+}
